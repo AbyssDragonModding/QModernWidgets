@@ -1,5 +1,5 @@
 // C++ implementation of QSwitch, based off IOS switch, originally prototyped with PySide6
-#include "Include/QSwitch.h"
+#include "QSwitch.h"
 namespace QModern
 {
     QSwitch::QSwitch(QWidget *parent, int height)
